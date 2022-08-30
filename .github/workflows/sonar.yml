@@ -1,6 +1,6 @@
 name: Some workflow
 on:
-    pull_request: rrtrt
+    pull_request: 
         branches: [master, main]
 jobs:
   SonarScanner:
