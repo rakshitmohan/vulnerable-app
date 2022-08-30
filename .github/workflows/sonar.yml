@@ -19,8 +19,8 @@ jobs:
            host: ${{ secrets.SONARQUBE_HOST }}
            token: ${{ secrets.SONARQUBE_TOKEN }}
            githubToken: ${{ secrets.GITHUB }}
-           projectKey: "test1"
-           projectName: "test1"
+           projectKey: "test2"
+           projectName: "test2"
  
           
           
